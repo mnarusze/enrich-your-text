@@ -1,0 +1,139 @@
+{{about|the ship|the company|Rautaruukki}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = [[File:Rautaruukki-botnia 20110207.jpg|300px]]
+| Ship caption             = ''Rautaruukki'' and [[Botnia (barge)|''Botnia'']] outside [[Raahe]], Finland, with the [[Raahe Steel Works]] in the background.
+}}
+{{Infobox ship career
+| Hide header              = 
+| Ship name                = ''Rautaruukki''
+| Ship owner               =*1986–1996: [[Rautaruukki|Rautaruukki Oy]]
+*1996–2003: [[Nordea|Merita Rahoitus Oy]]
+*2003–: [[ESL Shipping|ESL Shipping Ltd]]
+| Ship operator            =*1986–2003: [[Finnlines|Oy Finnlines Ltd]]<ref name="FMM1989">The Finnish merchant marine 1989. Finnish Maritime Administration.</ref>
+*2003–: ESL Shipping Ltd
+| Ship registry            =*1986–1989: [[Raahe]], {{flag|Finland}}<ref name="FMM1989" />
+*1989–1996: [[Stockholm]], {{flag|Sweden}}
+*1996–: [[Helsinki]], {{flag|Finland}}<ref name="equasis">{{csr|register=E|id=8418174|shipname=Rautaruukki|accessdate=2011-04-12}}</ref>
+| Ship route               = 
+| Ship ordered             = 29 September 1984
+| Ship builder             = [[Hollming|Hollming Oy]], [[Rauma, Finland|Rauma]], Finland
+| Ship original cost       = 
+| Ship yard number         = 262<ref name="DNV Exchange">[http://exchange.dnv.com/Exchange/Main.aspx?EXTool=Vessel&VesselID=14630 RAUTARUUKKI]. DNV Exchange. {{Retrieved | accessdate=2010-07-05}}</ref>
+| Ship way number          = 
+| Ship laid down           = 27 June 1985
+| Ship launched            = 20 December 1985
+| Ship completed           = 31 October 1986
+| Ship christened          = 
+| Ship acquired            = 
+| Ship maiden voyage       = 
+| Ship in service          = 
+| Ship out of service      = 
+| Ship identification      =*[[IMO number|IMO]] 8418174<ref name="DNV Exchange" />
+*[[Call sign|Call&nbsp;sign]]: 1986–1989:&nbsp;OITU;<ref name="FMM1989" /> 1996–:&nbsp;OJHM<ref name="FMM1998">Finnish merchant marine and fishing vessels 1998. Finnish Maritime Administration.</ref>
+| Ship fate                = 
+| Ship status              = In service
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = 
+| Ship type = [[Towboat|Pusher]]
+}}
+|-
+| Classification:
+| [[Det Norske Veritas|DNV]] {{DNV-supervised-construction}}1A1 ICE-1A+ Pusher and Pusher/Barge Unit E0
+{{Infobox ship characteristics
+| Hide header              = yes
+| Ship class               = 
+| Ship tonnage             =*{{GT|1,554}}
+*{{NetT|466}}
+*{{DWT|445}}
+| Ship displacement        = 2,230 tons
+| Ship length              = {{convert|41.7|m|ft|1|abbr=on}} (overall)
+| Ship beam                =*{{convert|14.37|m|ft|1|abbr=on}} (waterline)
+*{{convert|15.5|m|ft|2|abbr=on}} (bridge wings)
+| Ship height              = 
+| Ship draught             = {{convert|6.7|m|ft|1|abbr=on}}
+| Ship draft               = 
+| Ship depth               = {{convert|10.0|m|ft|1|abbr=on}}
+| Ship decks               = 
+| Ship deck clearance      = 
+| Ship ramps               = 
+| Ship ice class           = 1A Super
+| Ship sail plan           = 
+}}
+|-
+|Main engines:
+|2 × [[Wärtsilä]]-[[Sulzer (manufacturer)|Sulzer]] 6ZAL40 (2&nbsp;×&nbsp;3,840&nbsp;kW)
+|-
+|Auxiliary generators:
+|2 × Wärtsilä-Vasa 4R22HF (2&nbsp;×&nbsp;590&nbsp;kW)<br />[[Strömberg (company)|Strömberg]] shaft generator (900&nbsp;kVA)
+{{Infobox ship characteristics
+| Hide header              = yes
+| Ship power               = 
+| Ship propulsion          = [[Controllable-pitch propeller|CPP]], &#8960;&nbsp;{{convert|4.70|m|ft|1|abbr=on}}
+| Ship speed               = {{convert|13.4|kn}}
+| Ship capacity            = 
+| Ship crew                = 9
+| Ship notes               = 
+}}
+|}
+
+'''''Rautaruukki''''' is a [[Finland|Finnish]] [[towboat|pusher vessel]] owned and operated by [[ESL Shipping]]. It is part of the ''[[Finnpusku]]'' [[integrated tug and barge]] system developed in the 1980s by [[Finnlines]], a Finnish shipping company that also managed the vessel until 2003, in co-operation with [[Rautaruukki]] for the transportation needs of the steel company. ''Rautaruukki'', built by [[Hollming]] in [[Rauma, Finland|Rauma]], Finland, was delivered on 30 October 1986 and has since been used mainly to supply raw materials to the [[Raahe Steel Works]]. 
+
+''Rautaruukki'' has an identical sister vessel, [[Steel (pusher)|''Steel'']], which was delivered in 1987 as ''Finn''. The vessel capsized in 1990, but was rebuilt, renamed and returned to service in 1991.
+
+== Development and construction ==
+{{Main|Finnpusku}}
+
+The development of the ''Finnpusku'' system dates back to the 1960s when Finnlines developed the first version of the icegoing pusher-barge system. While the concept was not pursued further due to various problems, an upgraded version was developed in the 1970s.<ref name="finnlines1972">Holma, H.: Proomukuljetukset. Oy Finnlines Ltd, 1972.</ref> In the late 1970s Rautaruukki Oy began transporting raw materials to the [[steel mill]] in [[Raahe]] by towed barges and found them suitable for the steel company's transportation needs. However, due to the poor maneuverability of the barges and their inability to operate in winter conditions, Rautaruukki decided to investigate if it would be possible to design a pusher-barge system that could also be operated in ice conditions. When Finnlines was consulted, it presented the ''Finnpusku'' system it had developed and the two companies signed a development contract. Later Finnlines performed several feasibility studies which showed that a pusher-barge system would be the most economical and efficient method of transporting bulk cargoes on the relatively short routes of the [[Baltic Sea]].<ref name="bruunriegels1991">von Bruun-Riegels, U. Raaka-ainekuljetukset proomuilla. Rautaruukki Oy, 1991.</ref>
+
+The initial plan was to establish shipping companies for each vessel of the ''Finnpusku'' system under the joint ownership of several large Finnish industrial and shipping companies, including Rautaruukki and Finnlines, which would also manage the vessels. However, due to delays in negotiations Rautaruukki, concerned about the continuous supply of raw materials to the Raahe Steel Works, decided to order one pusher and two barges for itself and signed a building contract with Hollming on 29 September 1984.<ref>A revolutionary pusher-barge system. Navigator 1985.</ref> The first pusher of the ''Finnpusku'' system, ''Rautaruukki'', was laid down on 27 June and launched on 20 December 1985.<ref name="bruunriegels1991" />
+
+Pusher ''Rautaruukki'' and barges [[Kalla (barge)|''Kalla'']] and [[Tasku (barge)|''Tasku'']], built by a [[Portugal|Portuguese]] shipyard [[Estaleiros Navais de Setubal]] in [[Setúbal]] and outfitted in Rauma, were delivered to Rautaruukki on 31 October 1986.<ref name="bruunriegels1991" /> When the two pushers and five barges of the ''Finnpusku'' system entered service in 1986–1987, it was estimated that they would carry one third of the ten million tons of [[bulk cargo]] arriving in Finland by sea every year.<ref name="navigator1186">Mauno, J. Finnpusku minimoi satama-ajan. Navigator 11/86.</ref>
+
+== Career ==
+
+[[File:Rautaruukki-kalla 20110314.jpg|thumb|left|''Rautaruukki'' and [[Kalla (barge)|''Kalla'']] outside [[Luleå]], [[Sweden]].]]
+
+While the jointly owned pusher ''Finn'' was [[Chartering (shipping)|time-chartered]] by the transportation department of Rautaruukki only when the steel company required additional capacity, ''Rautaruukki'' was used since the beginning solely to supply the Raahe Steel Works with raw materials. The pusher-barge combinations transported different bulk cargoes from various ports of the Baltic Sea, such as limestone from the port of [[Kappelshamn|Storugns]] in [[Gotland]], iron ore concentrate from [[Luleå]], [[Sweden]], and coal from various [[Eastern Europe]]an ports.<ref name="bruunriegels1991" /><ref name="navigator1186" /> 
+
+After initial issues were solved, the ''Finnpusku'' system was found out to be suitable for the transportation needs of Rautaruukki in both port-to-port transport and [[Ship-to-ship cargo transfer|lightening]] large [[bulk carrier]]s outside the port of Raahe. By the end of 1987 the amount of cargo transported by the ''Finnpusku'' system, 7.5 million tons per year, had grown beyond the capability of the transportation department that was under the central administration of the steel company, so on 1 May 1988 a subsidiary company, [[JIT-Trans]], was established to deal with both the parent company's own cargoes and external shipping business.<ref name="bruunriegels1991" />
+
+In 1989, JIT-Trans signed a long-term contract with [[SSAB]] for the transportation of iron ore concentrate and pellets from Luleå to [[Oxelösund]]. Since Finland and Sweden had no [[Reciprocity (international relations)|reciprocity]] agreement for [[cabotage]], part of the ''Finnpusku'' system had to be transferred to the [[Swedish Register of Ships]]. Rautaruukki sold pusher ''Rautaruukki'' and barges ''Kalla'' and ''Tasku'' to new joint shipping companies formed by the Finnish companies' Swedish subsidiaries. Despite the changes in ownership and flag Finnlines retained the management of the vessels through its Swedish subsidiary.<ref name="bruunriegels1991" />
+
+''Rautaruukki'' returned under the Finnish flag in 1996 after the ownership was transferred to a Finnish financial institution Merita Rahoitus (nowadays known as [[Nordea]] Rahoitus).<ref name="equasis" /><ref name="DNV Exchange" />
+
+[[File:Rautaruukki and Tasku in Helsinki on 26 June 2011.jpg|thumb|''Rautaruukki'' and [[Tasku (barge)|''Tasku'']] at [[Arctech Helsinki Shipyard]] on 26 June 2011.]]
+
+In July 2003 a seven-year contract for the transportation of raw materials in the Baltic Sea was signed between JIT-Trans and [[Aspo (company)|Aspo Group]].<ref name="aspo2003">[http://web.lib.hse.fi/FI/yrityspalvelin/pdf/2003/Faspo2003.pdf Toimintakertomus 2003]. Aspo Group. Page 14. {{Retrieved | accessdate=2010-07-01}}</ref> As part of the agreement, worth 140 million [[euro]]s, the ownership and management of the ''Finnpusku'' system was transferred to ESL Shipping, a subsidiary of the Aspo Group.<ref name="rr2003">[http://www3.ruukki.com/www/news.nsf/PFBD/120833E8B3457FB4C22574AA0026E95B?opendocument Rautaruukki ja ASPO kehittävät yhteistyötä raaka-aineiden merikuljetuksissa]. Rautaruukki Oyj, pörssitiedote, 30.7.2003.</ref> In February 2011 ESL Shipping signed a new long-term contract with Rautaruukki for the transportation of the raw materials of the steel industry in the Baltic Sea. The pushers and barges of the ''Finnpusku'' system were docked at [[Arctech Helsinki Shipyard]] and modernized by [[STX Europe|STX Finland Lifecycle Services]] during the summer of 2011.<ref name="esl2011">[http://www.eslshipping.com/portal/en/news/?bid=199 ESL Shipping and Rautaruukki signed a long-term contract for sea transport]. ESL Shipping Ltd, 2011-02-20. {{Retrieved | accessdate=2011-03-01}}</ref> ''Rautaruukki'' arrived at Helsinki for modernization in late June and left in early August.
+
+Unlike the other pushers of the ''Finnpusku'' system, ''Rautaruukki'' has not been involved in a severe accident. Its sister vessel, ''Finn'', capsized with the barge [[Botnia (barge)|''Baltic'']] in 1990 with a loss of eight lives<ref name="onnettomuus1990">[http://www.onnettomuustutkinta.fi/1279613878669 Puskija FINNin ja proomu BALTICin kaatuminen Hangon edustalla 27.12.1990]. Suuronnettomuuden tutkintaselostus n:o 2/1990. Onnettomuustutkintakeskus. Helsinki, 1992.</ref> and [[Herakles (pusher)|''Herakles'']], a salvage tug converted to a pusher in 1991, sank with the barge [[Bulk (barge)|''Bulk'']] in 2004.<ref name="onnettomuus2004">[http://www.onnettomuustutkinta.fi/Etusivu/Tutkintaselostukset/Vesiliikenne/Vesiliikenne2004/1210772725116 Työntöproomuyhdistelmä HERAKLES-BULK, vaaratilanne ja uppoaminen Selkämerellä 2.–3.3.2004]. Onnettomuustutkintakeskuksen tutkintaselostus B 02/2004 M.</ref>
+
+== Technical details ==
+
+=== General characteristics ===
+
+The [[length overall|overall length]] of ''Rautaruukki'' is {{convert|41.7|m|ft|1|abbr=out}} and its [[length between perpendiculars]] is {{convert|40.2|m|ft|1|abbr=out}}. The breadth of the hull is {{convert|14.37|m|ft|1|abbr=out}} at the waterline, but the maximum breadth of the vessel due to the bridge wings is {{convert|15.5|m|ft|1|abbr=out}}. The draught and depth to the upper deck, {{convert|6.7|m|ft|1|abbr=out}} and {{convert|10|m|ft|1|abbr=out}} respectively, are the same as those of a fully laden barge. The displacement of the pusher is 2,230 tons and [[deadweight tonnage]] 445 tons, and its [[gross tonnage]] is 1,554 and [[net tonnage]] 446.<ref name="DNV Exchange" /><ref name="ESLPusherBarge">[http://www.eslshipping.com/attachments/esl/fleet_pdf/pusher_steel.pdf Pusher Vessels and Barges]. ESL Shipping Ltd. {{Retrieved | accessdate=2010-07-01}}</ref>
+
+''Rautaruukki'' is [[classification society|classified]] by [[Det Norske Veritas]] with a class notation of +1A1 ICE-1A+ Pusher and Pusher/Barge Unit E0. It has the highest [[Finnish-Swedish ice class]], 1A Super, which means that the pusher is designed to operate in difficult ice conditions both alone and when coupled to a barge mainly without icebreaker assistance.<ref name="DNV Exchange" /> While usually connected to a barge, ''Rautaruukki'' is also capable of operating independently. However, the low [[metacentric height]] of the pusher, only {{convert|0.5|-|0.6|m|ft|abbr=on}}, results in large roll amplitudes and pitching, making the vessel very uncomfortable in severe weather.<ref name="motorship1986" /> For this reason short transit journeys without a barge are done only when it is absolutely necessary.<ref name="tm2008" />
+
+The ''Finnpusku'' system uses a unique rigid coupling system, [[Wärtsilä Marine Locomotive]], which consists of two hydraulic locking pins, one on each side of the pusher, and one fixed pin in the bow. The pusher can be connected to the barge at three different levels, removing the need to ballast the barge to the same draught as the pusher when not carrying cargo.<ref name="motorship1986" /> In addition to mechanical coupling the pusher is connected to the barge by several electrical cables on the starboard side and flexible pipes on the port side. The latter allow the pusher's fuel and freshwater tanks to be topped up from the much larger storage tanks of the barge.<ref name="onnettomuus1990" />
+
+One of the most prominent features of the pusher is the high superstructure rising {{convert|22|m|ft|0|abbr=out}} from the waterline. In addition to accommodation, mess and dayroom for the crew of nine, it initially housed two [[Bridge (nautical)|bridges]] at different levels. The lower bridge on the third deck was originally intended to be used when the pusher is operating on its own without a barge, allowing more comfortable conditions for the crew — the chairs in the upper bridge on the seventh deck were equipped with seatbelts due to the large motions of the vessel when operating independently. However, the lower bridge was rarely used and the space was later converted to an office. The upper bridge, with bridge wings extending beyond the pusher's breadth, is equipped to allow one man bridge operation.<ref name="motorship1986" />
+
+=== Power and propulsion ===
+
+Propulsion power is provided by two six-cylinder [[Sulzer (manufacturer)|Sulzer]] 6ZAL40 4-stroke medium-speed diesel engines running on heavy fuel oil, manufactured under licence by [[Wärtsilä]], each with a maximum continuous output of {{convert|3840|kW|hp|0|abbr=on}} at 380 rpm, giving the combination a service speed of {{convert|13.4|kn}}.<ref name="navigator1184">Rohkea investointi. Navigator 11/84</ref> A [[:de:Lohmann & Stolterfoht|Lohmann & Stolterfoht]] reduction gearbox connects the main engines to a propeller shaft driving a {{convert|4.7|m|ft|1|adj=on}} four-bladed [[Rauma-Repola]] [[Liaaen]] [[controllable-pitch propeller]]<ref name="ESLPusherBarge" /> and a 900 kVa [[Strömberg (company)|Strömberg]] shaft generator used to power the bow thruster in the barge. The main engines are equipped with steam-generating exhaust boilers to improve the overall efficiency of the power plant.<ref name="tm2008">Puskija on tehokas työmyyrä. Tekniikan Maailma, 16/2008.</ref> Electricity is provided by two Wärtsilä-Vasa 4R22HF diesel engines, each producing {{convert|590|kW|hp|0|abbr=on}} at 1,000 rpm, that are connected to 710 kVa Strömberg alternators. The auxiliary generating sets are mounted side by side above the propeller shaft due to the narrow hull.<ref name="motorship1986">FINNPUSKU - Finnish tug/barge combination boosts Raahe iron works' sea cargoes. The Motor Ship, December 1986, pages 40–42.</ref> A 158&nbsp;kW [[Volvo Penta]] TMD102A emergency generator is located on the main deck level in the smoke stack.<ref name="ESLPusherBarge" />
+
+== References ==
+{{Reflist|2}}
+
+
+
+{{DEFAULTSORT:Rautaruukki}}
+[[Category:1986 ships]]
+[[Category:Ships built in Finland]]
+[[Category:Towboats]]

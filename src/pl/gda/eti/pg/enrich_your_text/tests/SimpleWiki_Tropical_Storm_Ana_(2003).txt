@@ -1,0 +1,47 @@
+{{dablink|This page is about Tropical Storm Ana in 2003, there was another [[Tropical Storm Ana (2009)|Tropical Storm Ana in 2009]].}}
+{{Infobox Hurricane
+| Name=Tropical Storm Ana
+| Type=Tropical storm
+| Year=2003
+| Basin=Atl
+| Image location=Tropical Storm Ana (2003).JPG
+| Image name=Tropical Storm Ana near peak intensity
+| Formed=April 20, 2003
+| Dissipated=April 24, 2003
+| 1-min winds=50
+| Pressure=994
+| Damages=None
+| Inflated=
+| Fatalities=2 direct
+| Areas=[[Florida]], [[Bermuda]]
+| Hurricane season=[[2003 Atlantic hurricane season]]
+}}
+'''Tropical Storm Ana''' was the only [[tropical cyclone]] on record in the [[Atlantic hurricane|Atlantic Ocean]] in the month of April. Ana was the first tropical storm of the 2003 Atlantic hurricane season. Tropical Storm Ana was two kinds of storms, a ''[[subtropical cyclone]]'', and a ''[[tropical cyclone]]''. It formed as a subtropical cyclone on April 20, while it was to the west of [[Bermuda]]. It moved towards the east-southeast and began to get better organized. On April 21, the subtropical cyclone became a tropical cyclone. Tropical Storm Ana then turned towards the east-northeast. It quickly lost strength because of [[wind shear]] and a close [[cold front]]. On April 24, Ana became an [[extratropical cyclone]]. 
+
+The storm moved near Bermuda, while causing light rainfall. The remnants of the storm also dropped rain in the [[Azores]] and the [[United Kingdom]]. Stormy sea waters caused by the storm capsized a boat near [[Florida]] coastline. The incident killed two people.
+
+==Meteorological history==
+{{storm path|Ana 2003 track.png}}
+A [[low pressure area]] formed to the south, and southwest, of [[Bermuda]] on April 18.<ref name="tcr">{{cite web|author=Jack Beven|year=2003|title=Tropical Storm Ana Tropical Cyclone Report|publisher=National Hurricane Center|accessdate=2007-12-14|url=http://www.nhc.noaa.gov/2003ana.shtml?}}</ref> A [[trough (meteorology)|trough]], which is a type of weather system, brought an area of clouds into the low pressure system.<ref>{{cite web|author=Mike Tichacek|year=2003|title=April 18 Tropical Weather Discussion|publisher=National Hurricane Center|accessdate=2007-12-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Atl-Dis/2003/Apr/2003041804.AXNT20}}</ref> The low pressure system moved towards the north.<ref name="tcr"/> After turning towards the northwest, the weather system looped southeastward.<ref>{{cite web|author=Robbie Berg|year=2003|title=April 20 Tropical Weather Discussion|publisher=National Hurricane Center|accessdate=2007-12-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Atl-Dis/2003/Apr/2003042017.AXNT20}}</ref> Thunderstorm activity became stronger near the center of the cyclone. The storm was named Subtropical Storm Ana on April 20, while located about 250&nbsp;miles (400&nbsp;km) west of Bermuda.<ref name="tcr"/>
+
+The subtropical storm moved to the east-southeastward and it continued to get stronger. It is estimated that Ana became a tropical storm by 0000&nbsp;[[Coordinated Universal Time|UTC]] on April 21. When it became a tropical cyclone, Ana reached its highest winds of 60&nbsp;mph (95&nbsp;km/h). Shortly after, Ana came close to Bermuda.<ref name="tcr"/> Strong [[wind shear]] began to remove a lot of the thunderstorm activity from Ana.<ref name="disc2">{{cite web|author=Richard Pasch|year=2003|title=Subtropical Storm Ana Discussion Two|publisher=National Hurricane Center|accessdate=2007-12-15|url=http://www.nhc.noaa.gov/archive/2003/dis/al012003.discus.002.shtml?}}</ref> Ana continued to move  eastward,<ref name="disc3">{{cite web|author=Jack Beven|year=2003|title=Subtropical Storm Ana Discussion Five|publisher=National Hurricane Center|accessdate=2007-12-15|url=http://www.nhc.noaa.gov/archive/2003/dis/al012003.discus.005.shtml?}}</ref> and early on April 22, the wind shear again removed the thunderstorms from the center of the storm. After turning towards the northeast, the core of Ana merged with a [[cold front]] on April 24. Because of t his, Tropical Storm Ana turned into an [[extratropical cyclone]]. The remnants of the cyclone sped towards the east-northeastward, before it died out on April 27.<ref name="tcr"/>
+
+==Impact, records, and naming==
+[[Image:Subtropical Storm Ana.jpg|right|thumb|Subtropical Storm Ana in the western Atlantic Ocean]]
+
+Before Ana was formed, the government of [[Bermuda]] declared a gale warning for the island.<ref>{{cite web|author=Jack Beven|year=2003|title=April 20 Special Tropical Disturbance Statement|publisher=National Hurricane Center|accessdate=2007-12-15|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Disturbance/2003/Apr/2003042022.WONT41}}</ref> When Ana formed, a [[tropical cyclone warnings and watches|tropical storm warning]] was also issued for Bermuda.<ref>{{cite web|author=Jack Beven|year=2003|title=Subtropical Storm Ana Public Advisory One|publisher=National Hurricane Center|accessdate=2007-12-15|url=http://www.nhc.noaa.gov/archive/2003/pub/al012003.public.001.shtml?}}</ref> The storm moved close to Bermuda and dropped 2.63&nbsp;inches (67&nbsp;mm) of rainfall the [[Bermuda International Airport]]. The winds on the island were light.<ref>{{cite web|author=Bermuda Weather Service|year=2003|title=Bermuda Weather for April 2003|accessdate=2007-12-15|url=http://www.weather.bm/data/2003-04.html}}</ref> 
+
+Stormy seas from the storm reached the coast of [[Florida]] in the [[United States]].<ref name="tcr"/> A couple of factors, which included the stormy seas, caused a boat to capsize in [[Jupiter, Florida|Jupiter Inlet]]. Two people on the ship drowned, and the others were rescued.<ref>{{cite web|author=National Climatic Data Center|year=2003|title=Tropical Storm Ana Event Report|accessdate=2007-12-15|url=http://www4.ncdc.noaa.gov/cgi-win/wwcgi.dll?wwevent~ShowEvent~489312}}</ref> The remnants of Ana dropped 0.87&nbsp;inches (22&nbsp;mm) of rainfall in the city of [[Ponta Delgada]] in the [[Azores]]. Clouds from the remnants of Ana also caused rain in the [[United Kingdom]].<ref>{{cite web|author=Gary Padgett|year=2003|title=April 2003 Global Tropical Cyclone Summary|accessdate=2007-12-15|url=http://www.australiasevereweather.com/cyclones/2003/summ0304.htm}}</ref> Two ships experienced tropical storm force winds because of Ana.<ref name="tcr"/>
+
+Ana was the second [[subtropical cyclone]] on record in the [[Atlantic hurricane|Atlantic basin]] in the month of April. When the storm became a tropical cyclone, it was also the first Atlantic tropical storm in the month of April.<ref name="tcr"/> Because the damage from Ana was not bad, the name "Ana" was not retired by the [[World Meteorological Organization]]. The name Ana was used again in [[Tropical Storm Ana (2009)|2009]].
+
+==References==
+{{reflist|2}}
+
+==Other websites==
+* [http://www.nhc.noaa.gov/2003ana.shtml? A Report on Tropical Storm Ana]
+
+{{2003 Atlantic hurricane season}}
+[[Category:2003 Atlantic hurricane season|Ana]]
+[[Category:Atlantic tropical storms|Ana (2003)]]
+[[Category:Hurricanes in Bermuda]]

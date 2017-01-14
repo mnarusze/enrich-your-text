@@ -33,20 +33,30 @@ The application is based on Java and uses MongoDB for the backend. It has been t
    * *Add indexes* - if set, the most important indexes will be created. Indexing utilizes RAM but makes it possible to do extremely fast lookups. If not set, no indexes will be created.
    * *Force* - if set, any database with the same name which might already exist will be overwritten. If not set, an error will popup when trying an existing name.
    * *Use stemming* - if set, all labels (phrases used as links in Wikipedia) will be stemmed using [Porter Stemmer](https://tartarus.org/martin/PorterStemmer/). If not set, original text will be used. Please note it only works for English Wikipedia!
-7. Run the extraction by clicking "Unpack Wikipedia". The process will take a varying amount of time depending on the size of the selected Wikipedia and the power of your machine. On a setup with i7-4900K, 16 GB DDR3 RAM and database on Samsung SSD 850 EVO 250 GB extraction of *SimpleWiki* takes around *20 minutes* while extraction of *EnWiki* takes around *3 days*.
+7. Run the extraction by clicking "Unpack Wikipedia". The process will take a varying amount of time depending on the size of the selected Wikipedia and the power of your machine. On a setup with i7-4900K, 16 GB DDR3 RAM and database on Samsung SSD 850 EVO 250 GB extraction of *SimpleWiki* takes around *15 minutes* while extraction of *EnWiki* takes around *2 days*.
 
+## Preparing dumps
+1. Find the name of database which you want to export. You can use the application UI or use mongo command line. All databases used by *EnrichYourText* are prepended with *enrich-your-text*.
+2. Assuming the database name is "simplewiki-20170101", use the following command to export it into a file:
+    mongodump -d enrich-your-text-simplewiki-20170101 --archive=enrich-your-text-simplewiki-20170101.archive
+    
 ## Importing ready to use dumps
-TODO
+1. Download a prepared dump from a location prepared by the author or from another developer.
+2. Assuming the file name is "enrich-your-text-simplewiki-20170101.archive", use the following command to import the dump into running MongoDB database:
+    mongorestore --archive=enrich-your-text-simplewiki-20170101.archive
 
 ## Enrichment
 1. After extraction, return to the main application window.
+   * Use *Reload databases* to refresh the view after extraction.
 2. Select the database name that interests you.
-   * If no database is present, use *Reload databases* button.
 3. Paste the text into the top window or open it using *File* -> *Open file* (*Ctrl+O*). If inserting text in Wikimedia format, please select a proper *Input Document Type*.
 4. Set extraction parameters.
    * If the selected database uses stemming then select the stemmed versions of *Input Parsing*, *Keyphrase Lookup* and *Annotation Algorithms*.
    * By default, only change the *Disambiguation algorithm*.
    * Override the values if you know how the algorithm works. For more info, look into code.
+5. Run *Start Erichment* and wait up to a few seconds.
+   * Be careful with very long texts because they might use a lots of memory.
+6. Once enrichment is done, the output text contains hyperlinks to associated Wikipedia entries. You can click on the links to open the web browser, you can also look at the bottom of the screen to see what entry will the link point to.
 
 # Development
 I have developed the application using NetBeans and I recommend using this IDE. Of course, other environments like Eclipse work perfectly fine.

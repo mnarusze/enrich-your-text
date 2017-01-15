@@ -38,12 +38,16 @@ The application is based on Java and uses MongoDB for the backend. It has been t
 ## Preparing dumps
 1. Find the name of database which you want to export. You can use the application UI or use mongo command line. All databases used by *EnrichYourText* are prepended with *enrich-your-text*.
 2. Assuming the database name is "simplewiki-20170101", use the following command to export it into a file:
-    mongodump -d enrich-your-text-simplewiki-20170101 --archive=enrich-your-text-simplewiki-20170101.archive
+```
+mongodump -d enrich-your-text-simplewiki-20170101 --archive=enrich-your-text-simplewiki-20170101.archive
+```
     
 ## Importing ready to use dumps
 1. Download a prepared dump from a location prepared by the author or from another developer.
 2. Assuming the file name is "enrich-your-text-simplewiki-20170101.archive", use the following command to import the dump into running MongoDB database:
-    mongorestore --archive=enrich-your-text-simplewiki-20170101.archive
+```
+mongorestore --archive=enrich-your-text-simplewiki-20170101.archive
+```
 
 ## Enrichment
 1. After extraction, return to the main application window.
